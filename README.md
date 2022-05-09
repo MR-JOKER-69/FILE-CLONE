@@ -29,12 +29,5 @@ $ git clone https://github.com/MR-JOKER-69/FILE-CLONE.git
 $ cd FILE-CLONE
 $ python JOKER.py
 
-# SINGLE RUN COMMAND 
-
-```
-
-# pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/MR-JOKER-69/FILE-CLONE.git ; cd FILE-CLONE; python JOKER.py
-```
-
 
 Note: This Tools Are Free, So You Use Free FILE-CLONE Tools Enjoy
