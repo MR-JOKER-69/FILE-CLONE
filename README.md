@@ -15,8 +15,8 @@
 ## <b>INSTALLATION TERMUX</b>
 
 ```
-cd
-rm -rf FILE-CLONE
+$ cd
+$ rm -rf FILE-CLONE
 $ pkg update
 $ pkg upgrade
 $ pkg install python
