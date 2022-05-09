@@ -33,7 +33,7 @@ $ python JOKER.py
 
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/MR-JOKER-69/FILE-CLONE.git ; cd FILE-CLONE; python JOKER.py
+# pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/MR-JOKER-69/FILE-CLONE.git ; cd FILE-CLONE; python JOKER.py
 ```
 
 
